@@ -4,7 +4,7 @@
 import pytest
 
 # Project library
-
+from seven_eleven.seven_eleven import print_7_eleven
 
 #----------------------------------------------------
 @pytest.mark.parametrize(
